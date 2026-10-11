@@ -21,7 +21,7 @@ The ESP connects to Wi-Fi and can be used to replace IR remotes and control the 
 
 # Wiring
 
-![Wiring diagram](ir_bb.png)
+![Wiring diagram](wiring.png)
 
 # 3D-Printed Parts
 
